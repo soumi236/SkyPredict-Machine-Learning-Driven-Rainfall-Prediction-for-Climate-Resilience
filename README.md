@@ -1,0 +1,2 @@
+# SkyPredict-Machine-Learning-Driven-Rainfall-Prediction-for-Climate-Resilience
+The SkyPredict project leverages machine learning on historical weather data to provide accurate rainfall predictions for improved disaster preparedness and climate resilience. It delivers actionable insights that reduce vulnerabilities, support sustainable development, and strengthen defenses against climate-driven risks.
